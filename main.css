@@ -1,0 +1,27 @@
+* {
+  padding:0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: #000;
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+p {
+  text-align: center;
+  font-size: 14px;
+}
+
+.instructions {
+  font-weight: bold;
+  font-style: italic;
+}
